@@ -1,0 +1,5 @@
+jax
+jaxlib
+flax
+numpy
+matplotlib
